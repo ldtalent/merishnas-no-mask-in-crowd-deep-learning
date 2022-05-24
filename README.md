@@ -42,4 +42,4 @@ For MacOS/Linux:
 
 ## Sample Result
 
-![Sample image](/sample_images/sample_result.png)
+![Sample image](sample_images/sample_result.PNG)
