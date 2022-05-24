@@ -1,6 +1,6 @@
 # Deep learning no mask detector
 
-In this tutorial, we will be learning the code and workflow for detecting whether or not a person is waering a mask in public based on images.
+In this tutorial, we will be learning the code and workflow for detecting whether or not a person is wearing a mask in public based on images.
 
 1. Start by creating a virtual environment for installing the libraries.
 
