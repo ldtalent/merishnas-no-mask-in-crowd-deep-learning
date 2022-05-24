@@ -39,3 +39,7 @@ For MacOS/Linux:
 
 1. Programming knowledge in Python.
 2. Basic knowledge of Jupyter Notebook, Deep Learning, Keras.
+
+## Sample Result
+
+![Sample image](/sample_images/sample_result.png)
