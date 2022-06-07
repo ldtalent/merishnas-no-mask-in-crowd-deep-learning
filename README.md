@@ -38,7 +38,8 @@ For MacOS/Linux:
 ## Prerequisites
 
 1. Programming knowledge in Python.
-2. Basic knowledge of Jupyter Notebook, Deep Learning, Keras.
+2. Python 3.5 to 3.8 installed.
+3. Basic knowledge of Jupyter Notebook, Deep Learning, Keras.
 
 ## Sample Result
 
