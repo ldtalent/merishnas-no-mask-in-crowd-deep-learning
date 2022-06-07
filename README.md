@@ -21,7 +21,7 @@ activate
 
 For MacOS/Linux:
 
-`source env/bin/activate`
+`source venv/bin/activate`
 
 3. Go back to the root directory and install the requirements.txt.
 
